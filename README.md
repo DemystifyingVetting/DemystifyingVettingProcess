@@ -1,6 +1,6 @@
 # DemystifyingVettingProcess
 
-## Here are some public data in my paper ***Demystifying the Vetting Process of Voice-controlled Skills on Markets***
+## Here are some public data in my paper ***Demystifying the Vetting Process of Voice-controlled Skills on Markets***
 
 - data
   - chatbot-answers
